@@ -1,0 +1,1 @@
+Esse repositório será destinado aos estudos de C# .NET
