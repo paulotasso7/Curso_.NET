@@ -1,0 +1,15 @@
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\bin\Debug\net5.0\exerciciosIniciais_6.exe
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\bin\Debug\net5.0\exerciciosIniciais_6.deps.json
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\bin\Debug\net5.0\exerciciosIniciais_6.runtimeconfig.json
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\bin\Debug\net5.0\exerciciosIniciais_6.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\bin\Debug\net5.0\exerciciosIniciais_6.dll
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\bin\Debug\net5.0\ref\exerciciosIniciais_6.dll
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\bin\Debug\net5.0\exerciciosIniciais_6.pdb
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\exerciciosIniciais_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\exerciciosIniciais_6.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\exerciciosIniciais_6.AssemblyInfo.cs
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\exerciciosIniciais_6.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\exerciciosIniciais_6.dll
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\ref\exerciciosIniciais_6.dll
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\exerciciosIniciais_6.pdb
+C:\Users\paulo\source\repos\exerciciosIniciais_1\exerciciosIniciais_6\obj\Debug\net5.0\exerciciosIniciais_6.genruntimeconfig.cache
