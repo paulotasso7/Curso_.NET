@@ -13,3 +13,4 @@ C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_3\obj\Debug\net5.0\exe
 C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_3\obj\Debug\net5.0\ref\exercicio_3.dll
 C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_3\obj\Debug\net5.0\exercicio_3.pdb
 C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_3\obj\Debug\net5.0\exercicio_3.genruntimeconfig.cache
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_3\obj\Debug\net5.0\exercicio_3.csproj.AssemblyReference.cache

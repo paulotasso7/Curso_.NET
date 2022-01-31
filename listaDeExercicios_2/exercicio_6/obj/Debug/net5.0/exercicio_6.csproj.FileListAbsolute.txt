@@ -1,0 +1,16 @@
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.AssemblyInfo.cs
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\bin\Debug\net5.0\exercicio_6.exe
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\bin\Debug\net5.0\exercicio_6.deps.json
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\bin\Debug\net5.0\exercicio_6.runtimeconfig.json
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\bin\Debug\net5.0\exercicio_6.runtimeconfig.dev.json
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\bin\Debug\net5.0\exercicio_6.dll
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\bin\Debug\net5.0\ref\exercicio_6.dll
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\bin\Debug\net5.0\exercicio_6.pdb
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.dll
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\ref\exercicio_6.dll
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.pdb
+C:\Users\paulo\source\repos\listaDeExercicios_2\exercicio_6\obj\Debug\net5.0\exercicio_6.genruntimeconfig.cache
